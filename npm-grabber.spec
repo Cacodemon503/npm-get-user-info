@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['npm-grabber.py'],
-             pathex=['C:\\Users\\Mi\\Desktop\\npm-grabber'],
+             pathex=['/home/cacodemon/My-Programs/npm-grabber'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -30,4 +30,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=True , icon='npm.ico')
+          console=True )

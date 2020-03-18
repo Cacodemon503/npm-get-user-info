@@ -1,11 +1,11 @@
-from bs4 import BeautifulSoup
-import time
-import sys
-import os
+#!/usr/bin/python3
+
 import re
 import requests
-import colorama
-colorama.init()
+import os
+import sys
+import time
+from bs4 import BeautifulSoup
 
 
 def know_status(username):
@@ -20,7 +20,7 @@ def know_status(username):
         endcolor = '\033[0m'
         print(f'{red}NO INTERNET CONNECTION{endcolor}')
         time.sleep(2)
-        os.system('cls')
+        os.system('clear')
         main()
 
 
@@ -62,7 +62,7 @@ def npm_checker(username):
         endcolor = '\033[0m'
         print(f'{red}NO INTERNET CONNECTION{endcolor}')
         time.sleep(2)
-        os.system('cls')
+        os.system('clear')
         main()
 
 
@@ -79,7 +79,7 @@ def main():
 
         if username == ':q':
             sys.exit()
-        os.system('cls')
+        os.system('clear')
         status = know_status(username)
 
         if status == 'OK':
@@ -90,22 +90,22 @@ def main():
             restart = input('').lower().strip(' ')
 
             if restart:
-                os.system('cls')
+                os.system('clear')
                 main()
             else:
-                os.system('cls')
+                os.system('clear')
                 main()
 
         elif status == '404':
             print(f'{orange}No such user{endfore}')
             time.sleep(2)
-            os.system('cls')
+            os.system('clear')
             main()
     except KeyboardInterrupt:
-        os.system('cls')
+        os.system('clear')
         print(f'{orange}Process killed by user{endfore}')
         time.sleep(0.5)
-        os.system('cls')
+        os.system('clear')
         sys.exit()
 
 
