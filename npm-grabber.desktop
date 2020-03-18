@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=NPM Grabber
+Comment=Get npm-user info
+Exec=/'PATH TO'/dist/npm-grabber
+Path=/'PATH TO'/distnpm-grabber
+Icon=/'PATH TO'/npm.png
+Terminal=true
+Type=Application
