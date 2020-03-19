@@ -16,11 +16,11 @@ exe file: `dist/npm-grabber.exe`
 > ⚠️ The program was compilated with pyinstaller, so it may be [false positive to your anitvirus](https://github.com/pyinstaller/pyinstaller/issues/4633). 
 If you are not shure, you can check the source code (`git-checker.py`) and use it instead of .exe file.
 
-#### > 👉 You may also use source script instead of app, in this case just use `git-checker.py`. 
+> 👉 You may also use source script instead of app, in this case just use `git-checker.py`. 
 Check the code for required modules
 
-For more instructions of ow to launch  `.py` scripts --> [see here in my other repo](https://github.com/Cacodemon503/hackerrank-parser/blob/source/README.md)
+#### For more instructions of ow to launch  `.py` scripts --> [see here in my other repo](https://github.com/Cacodemon503/hackerrank-parser/blob/source/README.md)
 
 #----Other Options----#
 
-[Script for Linux](https://github.com/Cacodemon503/npm-get-user-info/tree/linux)
+#### [Script for Linux](https://github.com/Cacodemon503/npm-get-user-info/tree/linux)
