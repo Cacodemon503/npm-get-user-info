@@ -3,7 +3,7 @@
 source code: `npm-grabber.py`
 exe file: `dist/npm-grabber.exe`
 
-![script showcase](https://github.com/Cacodemon503/npm-get-user-info/blob/master/npm-screen.png?raw=true)
+![script showcase](https://github.com/Cacodemon503/npm-get-user-info/blob/master/npm-screenshot.png?raw=true)
 
 ## Launch Instructions for Windows
 
