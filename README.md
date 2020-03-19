@@ -2,7 +2,7 @@
 npm html profile parser
 
 
-# Launch instructions for Linux
+## Launch instructions for Linux
 
 ### The easiest:
 
