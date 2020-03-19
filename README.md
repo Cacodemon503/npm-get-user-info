@@ -35,6 +35,6 @@ npm html profile parser
 For more instructions of how to launch  `.py` scripts --> [see here in my other repo](https://github.com/Cacodemon503/hackerrank-parser/blob/source/README.md)
 
 
-# #----------------------OTHER OPTIONS-----------------------#
+### #----------------------OTHER OPTIONS-----------------------#
 
-### [Code for Windows](https://github.com/Cacodemon503/npm-get-user-info/tree/master)  
+#### [Code for Windows](https://github.com/Cacodemon503/npm-get-user-info/tree/master)  
