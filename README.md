@@ -21,6 +21,6 @@ Check the code for required modules
 
 #### For more instructions of how to launch  `.py` scripts --> [see here in my other repo](https://github.com/Cacodemon503/hackerrank-parser/blob/source/README.md)
 
-#------------------Other Options---------------------#
+### #----------------------OTHER OPTIONS-----------------------#
 
 #### [Script for Linux](https://github.com/Cacodemon503/npm-get-user-info/tree/linux)
