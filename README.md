@@ -19,7 +19,7 @@ If you are not shure, you can check the source code (`git-checker.py`) and use i
 > 👉 You may also use source script instead of app, in this case just use `git-checker.py`. 
 Check the code for required modules
 
-#### For more instructions of ow to launch  `.py` scripts --> [see here in my other repo](https://github.com/Cacodemon503/hackerrank-parser/blob/source/README.md)
+#### For more instructions of how to launch  `.py` scripts --> [see here in my other repo](https://github.com/Cacodemon503/hackerrank-parser/blob/source/README.md)
 
 #----Other Options----#
 
