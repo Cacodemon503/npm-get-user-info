@@ -32,7 +32,8 @@ npm html profile parser
 4. If you setup the `npm.desktop` file correctly, you will now be able to see it in your App List and will be able to move an app to your App Dock. 
 
 > 🐧 You may also just use the source code `npm-grabber.py` file
-For more instructions of how to launch  `.py` scripts --> [see here in my other repo](https://github.com/Cacodemon503/hackerrank-parser/blob/source/README.md)
+For more instructions of how to launch  `.py` scripts 
+--> [see here in my other repo](https://github.com/Cacodemon503/hackerrank-parser/blob/source/README.md)
 
 
 ### #----------------------OTHER OPTIONS-----------------------#
