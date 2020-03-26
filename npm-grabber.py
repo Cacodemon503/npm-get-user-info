@@ -72,7 +72,7 @@ def main():
         purple = '\033[105m'
         green = '\033[32m'
         endback = '\033[49m'
-        endfore = '\033[39m	'
+        endfore = '\033[39m'
         print(f'{purple}NPM USER INFO{endback}\n')
         print(f'{orange}Enter username{endfore}')
         username = input('>>> ').lower().strip(' ')
